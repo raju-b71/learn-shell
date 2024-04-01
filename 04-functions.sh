@@ -1,5 +1,5 @@
 example() {
 echo "hello world"
 }
-#ccall function
+#ccall function sd
 example
